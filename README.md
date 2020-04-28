@@ -7,7 +7,7 @@ VRChatのアバターに仕込むことでs、ハンドサインなどを使っ�
 EmoteSwitch の原理を応用しています。（See Also: https://note.com/gend/n/nabcad7279bc2）
 
 ## せってい
-1. プロジェクトに `AnimatorRotarySwitch.unitypackage` を追加
+1. プロジェクトに [`AnimatorRotarySwitch.unitypackage`](https://github.com/esnya/vrc-animator-rotary-switch/raw/master/AnimatorRotarySwitch.unitypackage) を追加
 2. `AnimatorRotarySwitch/RotarySwitch.prefab` をアバターの直下に配置
 3. 各Slot（Slot1～SlotN）に出し入れしたいオブジェクトを配置
 4. `AnimatorRotarySwitch/Rotate.anim` のアニメーションをコピーして、任意のハンドサインのアニメーションに貼り付け。
